@@ -1,0 +1,110 @@
+1. Fisrt we install the jenkins
+2. Then we add the plugin ---mvn plugin
+						  ---jvm plugin
+3. After we create a new item 
+4. After that we put our project in that (we move on the c drive , in the c driver we move into the jenkins
+    in that folder we move into the job and past the project)
+    
+5.After pasting the project we build that 
+6.After that project get run and below logs is generated
+
+
+
+//logs of running project using jenkins
+Started by user Deepak Vishwakarma
+Running as SYSTEM
+Building in workspace C:\ProgramData\Jenkins\.jenkins\workspace\Exit_Test_Appium
+[Exit_Test_Appium] $ cmd /c call C:\WINDOWS\TEMP\jenkins10007340642257575305.bat
+
+C:\ProgramData\Jenkins\.jenkins\workspace\Exit_Test_Appium>cd C:\ProgramData\Jenkins\.jenkins\jobs\Assignment_Appium_Cucumber_Exit_Test_3196906 
+
+C:\ProgramData\Jenkins\.jenkins\jobs\Assignment_Appium_Cucumber_Exit_Test_3196906>mvn clean test 
+[INFO] Scanning for projects...
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for Assignment_Appium_Cucumber_Exit_Test_3196906:Assignment_Appium_Cucumber_Exit_Test_3196906:jar:0.0.1-SNAPSHOT
+[WARNING] 'dependencies.dependency.(groupId:artifactId:type:classifier)' must be unique: com.relevantcodes:extentreports:jar -> duplicate declaration of version 2.41.2 @ line 100, column 13
+[WARNING] 'build.pluginManagement.plugins.plugin.(groupId:artifactId)' must be unique but found duplicate declaration of plugin org.apache.maven.plugins:maven-surefire-plugin @ line 191, column 13
+[WARNING] 
+[WARNING] It is highly recommended to fix these problems because they threaten the stability of your build.
+[WARNING] 
+[WARNING] For this reason, future Maven versions might no longer support building such malformed projects.
+[WARNING] 
+[INFO] 
+[INFO] --< Assignment_Appium_Cucumber_Exit_Test_3196906:Assignment_Appium_Cucumber_Exit_Test_3196906 >--
+[INFO] Building Assignment_Appium_Cucumber_Exit_Test_3196906 0.0.1-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:3.1.0:clean (default-clean) @ Assignment_Appium_Cucumber_Exit_Test_3196906 ---
+[INFO] Deleting C:\ProgramData\Jenkins\.jenkins\jobs\Assignment_Appium_Cucumber_Exit_Test_3196906\target
+[INFO] 
+[INFO] --- maven-resources-plugin:3.0.2:resources (default-resources) @ Assignment_Appium_Cucumber_Exit_Test_3196906 ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\ProgramData\Jenkins\.jenkins\jobs\Assignment_Appium_Cucumber_Exit_Test_3196906\src\main\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ Assignment_Appium_Cucumber_Exit_Test_3196906 ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 11 source files to C:\ProgramData\Jenkins\.jenkins\jobs\Assignment_Appium_Cucumber_Exit_Test_3196906\target\classes
+[INFO] /C:/ProgramData/Jenkins/.jenkins/jobs/Assignment_Appium_Cucumber_Exit_Test_3196906/src/main/java/com/qa/util/Xls_Reader.java: C:\ProgramData\Jenkins\.jenkins\jobs\Assignment_Appium_Cucumber_Exit_Test_3196906\src\main\java\com\qa\util\Xls_Reader.java uses or overrides a deprecated API.
+[INFO] /C:/ProgramData/Jenkins/.jenkins/jobs/Assignment_Appium_Cucumber_Exit_Test_3196906/src/main/java/com/qa/util/Xls_Reader.java: Recompile with -Xlint:deprecation for details.
+[INFO] 
+[INFO] --- maven-resources-plugin:3.0.2:testResources (default-testResources) @ Assignment_Appium_Cucumber_Exit_Test_3196906 ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\ProgramData\Jenkins\.jenkins\jobs\Assignment_Appium_Cucumber_Exit_Test_3196906\src\test\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.0:testCompile (default-testCompile) @ Assignment_Appium_Cucumber_Exit_Test_3196906 ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 11 source files to C:\ProgramData\Jenkins\.jenkins\jobs\Assignment_Appium_Cucumber_Exit_Test_3196906\target\test-classes
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.22.1:test (default-test) @ Assignment_Appium_Cucumber_Exit_Test_3196906 ---
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running TestSuite
+Feb 04, 2023 10:30:51 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+log4j:WARN No appenders could be found for logger (stepdefinations.App_Search_Step_Defination).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+Feb 04, 2023 10:31:12 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Feb 04, 2023 10:31:57 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Feb 04, 2023 10:32:25 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Feb 04, 2023 10:32:51 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Feb 04, 2023 10:33:25 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+?????????????????????????????????????????????????????????????????????????????????????
+? Share your Cucumber Report with your team at https://reports.cucumber.io          ?
+? Activate publishing with one of the following:                                    ?
+?                                                                                   ?
+? src/test/resources/cucumber.properties:          cucumber.publish.enabled=true    ?
+? src/test/resources/junit-platform.properties:    cucumber.publish.enabled=true    ?
+? Environment variable:                            CUCUMBER_PUBLISH_ENABLED=true    ?
+? JUnit:                                           @CucumberOptions(publish = true) ?
+?                                                                                   ?
+? More information at https://cucumber.io/docs/cucumber/environment-variables/      ?
+?                                                                                   ?
+? Disable this message with one of the following:                                   ?
+?                                                                                   ?
+? src/test/resources/cucumber.properties:          cucumber.publish.quiet=true      ?
+? src/test/resources/junit-platform.properties:    cucumber.publish.quiet=true      ?
+?????????????????????????????????????????????????????????????????????????????????????
+[INFO] Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 208.944 s - in TestSuite
+[INFO] 
+[INFO] Results:
+[INFO] 
+[INFO] Tests run: 6, Failures: 0, Errors: 0, Skipped: 0
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  03:48 min
+[INFO] Finished at: 2023-02-04T22:33:50+05:30
+[INFO] ------------------------------------------------------------------------
+Finished: SUCCESS
+
+
+

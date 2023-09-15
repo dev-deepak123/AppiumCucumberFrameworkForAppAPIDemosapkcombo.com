@@ -1,0 +1,426 @@
+2023-02-03 11:20:29,778 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on animation text*************
+2023-02-03 11:20:30,664 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on  Hide-Show Animation text*************
+2023-02-03 11:20:31,921 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on zero*************
+2023-02-03 11:20:33,069 - stepdefinations.Animation_Step_Defination -INFO - *************here we verify that zero is gone or not*************
+2023-02-03 11:20:38,153 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on the show button*************
+2023-02-03 11:20:41,220 - stepdefinations.Animation_Step_Defination -INFO - *************verify that zero is visible or not*************
+2023-02-03 11:24:16,672 - stepdefinations.App_Display_Option_Step_defination -INFO - *****here we click on the App button*************
+2023-02-03 11:24:17,782 - stepdefinations.App_Display_Option_Step_defination -INFO - *****here we click on the Action Bar*************
+2023-02-03 11:24:20,367 - stepdefinations.App_Display_Option_Step_defination -INFO - *****click on the Display Options*************
+2023-02-03 11:24:21,583 - stepdefinations.App_Display_Option_Step_defination -INFO - *****click on the Display_show_title and verify it*************
+2023-02-03 11:24:23,336 - stepdefinations.App_Display_Option_Step_defination -INFO - *****click on the Display_show_custom and verify it*************
+2023-02-03 11:24:24,638 - stepdefinations.App_Display_Option_Step_defination -INFO - *****click on Navigation and verify it*************
+2023-02-03 11:45:42,345 - stepdefinations.App_Search_Step_Defination -INFO - Click on the app
+2023-02-03 11:45:44,537 - stepdefinations.App_Search_Step_Defination -INFO - ********Click on the Search**********
+2023-02-03 11:45:44,644 - stepdefinations.App_Search_Step_Defination -INFO - ********Clcik on Invoke Search**********
+2023-02-03 11:45:46,991 - stepdefinations.App_Search_Step_Defination -INFO - ********Give the Prefill Query**********
+2023-02-03 11:45:47,108 - stepdefinations.App_Search_Step_Defination -INFO - ********check the title**********
+2023-02-03 11:45:47,724 - stepdefinations.App_Search_Step_Defination -INFO - ********Give the App data**********
+2023-02-03 11:45:55,870 - stepdefinations.Graphics_Step_defination -INFO - *******click on Graphic button***********
+2023-02-03 11:45:58,138 - stepdefinations.Graphics_Step_defination -INFO - *******click on AlphaBitmap and check the title and move back***********
+2023-02-03 11:45:59,688 - stepdefinations.Graphics_Step_defination -INFO - *******click on the AnimateDrawbles check the title and move back***********
+2023-02-03 11:46:02,611 - stepdefinations.Graphics_Step_defination -INFO - *******click on the Density check the title scroll down and move back***********
+2023-02-03 11:46:08,469 - stepdefinations.Graphics_Step_defination -INFO - *******Scroll down***********
+2023-02-03 11:46:16,601 - stepdefinations.Graphics_Step_defination -INFO - *******clcik on picture check the title and move back***********
+2023-02-03 11:46:17,887 - stepdefinations.Graphics_Step_defination -INFO - *******clcik on Touch paint and check the title and touch on screen***********
+2023-02-03 11:46:31,171 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on animation text*************
+2023-02-03 11:46:33,522 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on  Hide-Show Animation text*************
+2023-02-03 11:46:34,849 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on zero*************
+2023-02-03 11:46:34,961 - stepdefinations.Animation_Step_Defination -INFO - *************here we verify that zero is gone or not*************
+2023-02-03 11:46:40,052 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on the show button*************
+2023-02-03 11:46:43,121 - stepdefinations.Animation_Step_Defination -INFO - *************verify that zero is visible or not*************
+2023-02-03 11:46:50,796 - stepdefinations.App_Display_Option_Step_defination -INFO - *****here we click on the App button*************
+2023-02-03 11:46:52,191 - stepdefinations.App_Display_Option_Step_defination -INFO - *****here we click on the Action Bar*************
+2023-02-03 11:46:54,586 - stepdefinations.App_Display_Option_Step_defination -INFO - *****click on the Display Options*************
+2023-02-03 11:46:55,793 - stepdefinations.App_Display_Option_Step_defination -INFO - *****click on the Display_show_title and verify it*************
+2023-02-03 11:46:57,524 - stepdefinations.App_Display_Option_Step_defination -INFO - *****click on the Display_show_custom and verify it*************
+2023-02-03 11:46:58,838 - stepdefinations.App_Display_Option_Step_defination -INFO - *****click on Navigation and verify it*************
+2023-02-03 11:47:07,796 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the App text************
+2023-02-03 11:47:10,127 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Device admin************
+2023-02-03 11:47:10,225 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Password expiration************
+2023-02-03 11:47:11,370 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the set password************
+2023-02-03 11:47:14,316 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the fingerprint and password***********
+2023-02-03 11:47:28,345 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****user click on the text*************
+2023-02-03 11:47:30,877 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****user click on the Linkify*************
+2023-02-03 11:47:32,266 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****click on the here text*************
+2023-02-03 11:47:34,361 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****click on the Create new contact*************
+2023-02-03 11:47:39,725 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****fill the first name*************
+2023-02-03 11:47:40,517 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****fill the Last name*************
+2023-02-03 11:47:41,716 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****enter the phone number*************
+2023-02-03 11:47:44,683 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****enter the email*************
+2023-02-03 11:47:46,702 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****select mobile from scroll bar*************
+2023-02-03 11:47:49,420 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****Clcik on Save*************
+2023-02-03 11:47:49,486 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****Check that number is save or not*************
+2023-02-03 12:24:29,247 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the App text************
+2023-02-03 12:24:31,201 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Device admin************
+2023-02-03 12:24:32,361 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Password expiration************
+2023-02-03 12:24:32,499 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the set password************
+2023-02-03 12:24:35,478 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the fingerprint and password***********
+2023-02-03 12:24:36,883 - stepdefinations.SetPassword_Step_Defination -INFO - ********send the password***********
+2023-02-03 12:24:39,373 - stepdefinations.SetPassword_Step_Defination -INFO - ********reenter the confirm password***********
+2023-02-03 12:24:40,033 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the confirm button***********
+2023-02-03 12:24:40,795 - stepdefinations.SetPassword_Step_Defination -INFO - ********Click on do not show notification***********
+2023-02-03 12:24:42,733 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the confirm***********
+2023-02-03 12:24:44,597 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on skip***********
+2023-02-03 12:25:03,050 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the App text************
+2023-02-03 12:25:05,426 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Device admin************
+2023-02-03 12:25:06,587 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Password expiration************
+2023-02-03 12:25:07,698 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the set password************
+2023-02-03 12:25:09,463 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the fingerprint and password***********
+2023-02-03 13:00:06,990 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the App text************
+2023-02-03 13:00:09,202 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Device admin************
+2023-02-03 13:00:09,322 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Password expiration************
+2023-02-03 13:00:10,569 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the set password************
+2023-02-03 13:00:11,926 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the fingerprint and password***********
+2023-02-03 13:01:09,466 - stepdefinations.App_Search_Step_Defination -INFO - Click on the app
+2023-02-03 13:01:10,539 - stepdefinations.App_Search_Step_Defination -INFO - ********Click on the Search**********
+2023-02-03 13:01:12,919 - stepdefinations.App_Search_Step_Defination -INFO - ********Clcik on Invoke Search**********
+2023-02-03 13:01:14,292 - stepdefinations.App_Search_Step_Defination -INFO - ********Give the Prefill Query**********
+2023-02-03 13:01:14,403 - stepdefinations.App_Search_Step_Defination -INFO - ********check the title**********
+2023-02-03 13:01:15,014 - stepdefinations.App_Search_Step_Defination -INFO - ********Give the App data**********
+2023-02-03 13:01:24,589 - stepdefinations.Graphics_Step_defination -INFO - *******click on Graphic button***********
+2023-02-03 13:01:25,789 - stepdefinations.Graphics_Step_defination -INFO - *******click on AlphaBitmap and check the title and move back***********
+2023-02-03 13:01:28,420 - stepdefinations.Graphics_Step_defination -INFO - *******click on the AnimateDrawbles check the title and move back***********
+2023-02-03 13:01:31,396 - stepdefinations.Graphics_Step_defination -INFO - *******click on the Density check the title scroll down and move back***********
+2023-02-03 13:01:37,346 - stepdefinations.Graphics_Step_defination -INFO - *******Scroll down***********
+2023-02-03 13:01:45,583 - stepdefinations.Graphics_Step_defination -INFO - *******clcik on picture check the title and move back***********
+2023-02-03 13:01:46,892 - stepdefinations.Graphics_Step_defination -INFO - *******clcik on Touch paint and check the title and touch on screen***********
+2023-02-03 13:02:02,093 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on animation text*************
+2023-02-03 13:02:05,251 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on  Hide-Show Animation text*************
+2023-02-03 13:02:06,524 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on zero*************
+2023-02-03 13:02:06,689 - stepdefinations.Animation_Step_Defination -INFO - *************here we verify that zero is gone or not*************
+2023-02-03 13:02:11,769 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on the show button*************
+2023-02-03 13:02:14,847 - stepdefinations.Animation_Step_Defination -INFO - *************verify that zero is visible or not*************
+2023-02-03 13:02:25,061 - stepdefinations.App_Display_Option_Step_defination -INFO - *****here we click on the App button*************
+2023-02-03 13:02:27,534 - stepdefinations.App_Display_Option_Step_defination -INFO - *****here we click on the Action Bar*************
+2023-02-03 13:02:27,701 - stepdefinations.App_Display_Option_Step_defination -INFO - *****click on the Display Options*************
+2023-02-03 13:02:28,998 - stepdefinations.App_Display_Option_Step_defination -INFO - *****click on the Display_show_title and verify it*************
+2023-02-03 13:02:31,771 - stepdefinations.App_Display_Option_Step_defination -INFO - *****click on the Display_show_custom and verify it*************
+2023-02-03 13:02:33,135 - stepdefinations.App_Display_Option_Step_defination -INFO - *****click on Navigation and verify it*************
+2023-02-03 13:02:44,561 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the App text************
+2023-02-03 13:02:47,159 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Device admin************
+2023-02-03 13:02:47,332 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Password expiration************
+2023-02-03 13:02:48,538 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the set password************
+2023-02-03 13:02:51,221 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the fingerprint and password***********
+2023-02-03 13:03:06,262 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****user click on the text*************
+2023-02-03 13:03:08,586 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****user click on the Linkify*************
+2023-02-03 13:03:10,060 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****click on the here text*************
+2023-02-03 13:03:11,416 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****click on the Create new contact*************
+2023-02-03 13:03:15,233 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****click on the cancel*************
+2023-02-03 13:03:15,292 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****fill the first name*************
+2023-02-03 13:03:17,531 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****fill the Last name*************
+2023-02-03 13:03:18,686 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****enter the phone number*************
+2023-02-03 13:03:20,735 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****enter the email*************
+2023-02-03 13:03:22,795 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****select mobile from scroll bar*************
+2023-02-03 13:03:25,564 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****Clcik on Save*************
+2023-02-03 13:03:25,641 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****Check that number is save or not*************
+2023-02-03 13:07:06,486 - stepdefinations.App_Search_Step_Defination -INFO - Click on the app
+2023-02-03 13:07:08,757 - stepdefinations.App_Search_Step_Defination -INFO - ********Click on the Search**********
+2023-02-03 13:07:10,126 - stepdefinations.App_Search_Step_Defination -INFO - ********Clcik on Invoke Search**********
+2023-02-03 13:07:11,449 - stepdefinations.App_Search_Step_Defination -INFO - ********Give the Prefill Query**********
+2023-02-03 13:07:11,550 - stepdefinations.App_Search_Step_Defination -INFO - ********check the title**********
+2023-02-03 13:07:12,190 - stepdefinations.App_Search_Step_Defination -INFO - ********Give the App data**********
+2023-02-03 13:07:20,451 - stepdefinations.Graphics_Step_defination -INFO - *******click on Graphic button***********
+2023-02-03 13:07:22,877 - stepdefinations.Graphics_Step_defination -INFO - *******click on AlphaBitmap and check the title and move back***********
+2023-02-03 13:07:24,297 - stepdefinations.Graphics_Step_defination -INFO - *******click on the AnimateDrawbles check the title and move back***********
+2023-02-03 13:07:27,314 - stepdefinations.Graphics_Step_defination -INFO - *******click on the Density check the title scroll down and move back***********
+2023-02-03 13:07:33,181 - stepdefinations.Graphics_Step_defination -INFO - *******Scroll down***********
+2023-02-03 13:07:41,507 - stepdefinations.Graphics_Step_defination -INFO - *******clcik on picture check the title and move back***********
+2023-02-03 13:07:42,933 - stepdefinations.Graphics_Step_defination -INFO - *******clcik on Touch paint and check the title and touch on screen***********
+2023-02-03 13:07:56,462 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on animation text*************
+2023-02-03 13:07:58,766 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on  Hide-Show Animation text*************
+2023-02-03 13:07:59,953 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on zero*************
+2023-02-03 13:08:00,075 - stepdefinations.Animation_Step_Defination -INFO - *************here we verify that zero is gone or not*************
+2023-02-03 13:08:05,178 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on the show button*************
+2023-02-03 13:08:08,245 - stepdefinations.Animation_Step_Defination -INFO - *************verify that zero is visible or not*************
+2023-02-03 13:08:15,987 - stepdefinations.App_Display_Option_Step_defination -INFO - *****here we click on the App button*************
+2023-02-03 13:08:18,319 - stepdefinations.App_Display_Option_Step_defination -INFO - *****here we click on the Action Bar*************
+2023-02-03 13:08:18,445 - stepdefinations.App_Display_Option_Step_defination -INFO - *****click on the Display Options*************
+2023-02-03 13:08:20,874 - stepdefinations.App_Display_Option_Step_defination -INFO - *****click on the Display_show_title and verify it*************
+2023-02-03 13:08:22,635 - stepdefinations.App_Display_Option_Step_defination -INFO - *****click on the Display_show_custom and verify it*************
+2023-02-03 13:08:23,981 - stepdefinations.App_Display_Option_Step_defination -INFO - *****click on Navigation and verify it*************
+2023-02-03 13:08:34,794 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the App text************
+2023-02-03 13:08:37,269 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Device admin************
+2023-02-03 13:08:38,556 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Password expiration************
+2023-02-03 13:08:38,714 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the set password************
+2023-02-03 13:08:41,722 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the fingerprint and password***********
+2023-02-03 13:08:57,273 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****user click on the text*************
+2023-02-03 13:08:59,634 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****user click on the Linkify*************
+2023-02-03 13:09:01,481 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****click on the here text*************
+2023-02-03 13:09:03,255 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****click on the Create new contact*************
+2023-02-03 13:09:08,783 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****fill the first name*************
+2023-02-03 13:09:09,560 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****fill the Last name*************
+2023-02-03 13:09:10,775 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****enter the phone number*************
+2023-02-03 13:09:13,701 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****enter the email*************
+2023-02-03 13:09:15,930 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****select mobile from scroll bar*************
+2023-02-03 13:09:18,807 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****Clcik on Save*************
+2023-02-03 13:09:18,899 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****Check that number is save or not*************
+2023-02-03 13:12:35,307 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the App text************
+2023-02-03 13:12:37,440 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Device admin************
+2023-02-03 13:12:37,582 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Password expiration************
+2023-02-03 13:12:38,830 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the set password************
+2023-02-03 13:12:39,933 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the fingerprint and password***********
+2023-02-03 13:14:34,100 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the App text************
+2023-02-03 13:14:35,885 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Device admin************
+2023-02-03 13:14:37,037 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Password expiration************
+2023-02-03 13:14:38,131 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the set password************
+2023-02-03 13:14:38,269 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the fingerprint and password***********
+2023-02-03 13:17:09,995 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the App text************
+2023-02-03 13:17:12,080 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Device admin************
+2023-02-03 13:17:12,215 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Password expiration************
+2023-02-03 13:17:13,435 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the set password************
+2023-02-03 13:17:15,954 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the fingerprint and password***********
+2023-02-03 13:18:37,902 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the App text************
+2023-02-03 13:18:40,219 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Device admin************
+2023-02-03 13:18:41,641 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Password expiration************
+2023-02-03 13:18:41,887 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the set password************
+2023-02-03 13:18:43,340 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the fingerprint and password***********
+2023-02-03 13:25:44,322 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the App text************
+2023-02-03 13:25:44,971 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Device admin************
+2023-02-03 13:25:47,479 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Password expiration************
+2023-02-03 13:25:48,630 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the set password************
+2023-02-03 13:25:50,882 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the fingerprint and password***********
+2023-02-03 13:28:43,883 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the App text************
+2023-02-03 13:28:45,845 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Device admin************
+2023-02-03 13:28:47,070 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Password expiration************
+2023-02-03 13:28:48,169 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the set password************
+2023-02-03 13:28:48,337 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the fingerprint and password***********
+2023-02-03 13:31:24,782 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the App text************
+2023-02-03 13:31:25,533 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Device admin************
+2023-02-03 13:31:27,868 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Password expiration************
+2023-02-03 13:31:28,009 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the set password************
+2023-02-03 13:31:30,437 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the fingerprint and password***********
+2023-02-03 13:37:35,355 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the App text************
+2023-02-03 13:37:37,162 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Device admin************
+2023-02-03 13:37:38,318 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Password expiration************
+2023-02-03 13:37:39,475 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the set password************
+2023-02-03 13:37:39,629 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the fingerprint and password***********
+2023-02-03 13:49:14,647 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the App text************
+2023-02-03 13:49:16,512 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Device admin************
+2023-02-03 13:49:17,692 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Password expiration************
+2023-02-03 13:49:18,834 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the set password************
+2023-02-03 13:49:20,622 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the fingerprint and password***********
+2023-02-03 14:23:16,483 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the App text************
+2023-02-03 14:23:18,446 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Device admin************
+2023-02-03 14:23:19,934 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Password expiration************
+2023-02-03 14:23:21,102 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the set password************
+2023-02-03 14:23:23,407 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the fingerprint and password***********
+2023-02-03 14:26:41,112 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the App text************
+2023-02-03 14:26:41,901 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Device admin************
+2023-02-03 14:26:44,451 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Password expiration************
+2023-02-03 14:26:45,637 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the set password************
+2023-02-03 14:26:47,494 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the fingerprint and password***********
+2023-02-03 14:29:03,029 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the App text************
+2023-02-03 14:29:04,648 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Device admin************
+2023-02-03 14:29:05,738 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Password expiration************
+2023-02-03 14:29:08,014 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the set password************
+2023-02-03 14:29:08,284 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the fingerprint and password***********
+2023-02-03 14:34:45,797 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the App text************
+2023-02-03 14:34:46,969 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Device admin************
+2023-02-03 14:34:49,940 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Password expiration************
+2023-02-03 14:34:50,190 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the set password************
+2023-02-03 14:34:51,367 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the fingerprint and password***********
+2023-02-03 14:36:44,709 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on animation text*************
+2023-02-03 14:36:47,235 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on  Hide-Show Animation text*************
+2023-02-03 14:36:48,883 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on zero*************
+2023-02-03 14:36:49,088 - stepdefinations.Animation_Step_Defination -INFO - *************here we verify that zero is gone or not*************
+2023-02-03 14:36:54,173 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on the show button*************
+2023-02-03 14:36:57,302 - stepdefinations.Animation_Step_Defination -INFO - *************verify that zero is visible or not*************
+2023-02-03 16:28:18,489 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on animation text*************
+2023-02-03 16:28:20,382 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on  Hide-Show Animation text*************
+2023-02-03 16:28:20,550 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on zero*************
+2023-02-03 16:28:21,761 - stepdefinations.Animation_Step_Defination -INFO - *************here we verify that zero is gone or not*************
+2023-02-03 16:28:26,835 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on the show button*************
+2023-02-03 16:28:29,916 - stepdefinations.Animation_Step_Defination -INFO - *************verify that zero is visible or not*************
+2023-02-04 11:27:54,996 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on animation text*************
+2023-02-04 11:27:57,225 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on  Hide-Show Animation text*************
+2023-02-04 11:27:59,974 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on zero*************
+2023-02-04 11:28:00,257 - stepdefinations.Animation_Step_Defination -INFO - *************here we verify that zero is gone or not*************
+2023-02-04 11:28:05,421 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on the show button*************
+2023-02-04 11:28:08,545 - stepdefinations.Animation_Step_Defination -INFO - *************verify that zero is visible or not*************
+2023-02-04 12:08:44,720 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on animation text*************
+2023-02-04 12:08:46,933 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on  Hide-Show Animation text*************
+2023-02-04 12:08:48,383 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on zero*************
+2023-02-04 12:08:48,535 - stepdefinations.Animation_Step_Defination -INFO - *************here we verify that zero is gone or not*************
+2023-02-04 12:08:53,685 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on the show button*************
+2023-02-04 12:08:56,789 - stepdefinations.Animation_Step_Defination -INFO - *************verify that zero is visible or not*************
+2023-02-04 12:40:19,222 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on animation text*************
+2023-02-04 12:40:21,688 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on  Hide-Show Animation text*************
+2023-02-04 12:40:23,425 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on zero*************
+2023-02-04 12:40:26,113 - stepdefinations.Animation_Step_Defination -INFO - *************here we verify that zero is gone or not*************
+2023-02-04 12:40:31,213 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on the show button*************
+2023-02-04 12:40:34,303 - stepdefinations.Animation_Step_Defination -INFO - *************verify that zero is visible or not*************
+2023-02-04 12:41:33,756 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on animation text*************
+2023-02-04 12:41:36,449 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on  Hide-Show Animation text*************
+2023-02-04 12:41:36,610 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on zero*************
+2023-02-04 12:41:37,979 - stepdefinations.Animation_Step_Defination -INFO - *************here we verify that zero is gone or not*************
+2023-02-04 12:41:43,090 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on the show button*************
+2023-02-04 12:41:46,213 - stepdefinations.Animation_Step_Defination -INFO - *************verify that zero is visible or not*************
+2023-02-04 12:44:17,562 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on animation text*************
+2023-02-04 12:44:18,515 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on  Hide-Show Animation text*************
+2023-02-04 12:44:21,416 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on zero*************
+2023-02-04 12:44:21,565 - stepdefinations.Animation_Step_Defination -INFO - *************here we verify that zero is gone or not*************
+2023-02-04 12:44:26,637 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on the show button*************
+2023-02-04 12:44:29,722 - stepdefinations.Animation_Step_Defination -INFO - *************verify that zero is visible or not*************
+2023-02-04 12:49:10,490 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on animation text*************
+2023-02-04 12:49:12,503 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on  Hide-Show Animation text*************
+2023-02-04 12:49:13,748 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on zero*************
+2023-02-04 12:49:15,296 - stepdefinations.Animation_Step_Defination -INFO - *************here we verify that zero is gone or not*************
+2023-02-04 12:49:20,402 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on the show button*************
+2023-02-04 12:49:23,519 - stepdefinations.Animation_Step_Defination -INFO - *************verify that zero is visible or not*************
+2023-02-04 12:51:39,581 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on animation text*************
+2023-02-04 12:51:40,773 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on  Hide-Show Animation text*************
+2023-02-04 12:51:42,797 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on zero*************
+2023-02-04 12:51:44,662 - stepdefinations.Animation_Step_Defination -INFO - *************here we verify that zero is gone or not*************
+2023-02-04 12:51:49,704 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on the show button*************
+2023-02-04 12:51:52,819 - stepdefinations.Animation_Step_Defination -INFO - *************verify that zero is visible or not*************
+2023-02-04 18:37:08,182 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on animation text*************
+2023-02-04 18:37:10,773 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on  Hide-Show Animation text*************
+2023-02-04 18:37:10,968 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on zero*************
+2023-02-04 18:37:12,503 - stepdefinations.Animation_Step_Defination -INFO - *************here we verify that zero is gone or not*************
+2023-02-04 18:37:17,592 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on the show button*************
+2023-02-04 18:37:20,676 - stepdefinations.Animation_Step_Defination -INFO - *************verify that zero is visible or not*************
+2023-02-04 18:42:09,979 - stepdefinations.App_Search_Step_Defination -INFO - Click on the app
+2023-02-04 18:42:12,001 - stepdefinations.App_Search_Step_Defination -INFO - ********Click on the Search**********
+2023-02-04 18:42:13,825 - stepdefinations.App_Search_Step_Defination -INFO - ********Clcik on Invoke Search**********
+2023-02-04 18:42:16,389 - stepdefinations.App_Search_Step_Defination -INFO - ********Give the Prefill Query**********
+2023-02-04 18:42:16,607 - stepdefinations.App_Search_Step_Defination -INFO - ********check the title**********
+2023-02-04 18:42:17,302 - stepdefinations.App_Search_Step_Defination -INFO - ********Give the App data**********
+2023-02-04 18:42:40,854 - stepdefinations.Graphics_Step_defination -INFO - *******click on Graphic button***********
+2023-02-04 18:42:42,612 - stepdefinations.Graphics_Step_defination -INFO - *******click on AlphaBitmap and check the title and move back***********
+2023-02-04 18:42:45,588 - stepdefinations.Graphics_Step_defination -INFO - *******click on the AnimateDrawbles check the title and move back***********
+2023-02-04 18:42:49,249 - stepdefinations.Graphics_Step_defination -INFO - *******click on the Density check the title scroll down and move back***********
+2023-02-04 18:42:55,306 - stepdefinations.Graphics_Step_defination -INFO - *******Scroll down***********
+2023-02-04 18:43:03,495 - stepdefinations.Graphics_Step_defination -INFO - *******clcik on picture check the title and move back***********
+2023-02-04 18:43:04,804 - stepdefinations.Graphics_Step_defination -INFO - *******clcik on Touch paint and check the title and touch on screen***********
+2023-02-04 18:43:25,558 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on animation text*************
+2023-02-04 18:43:28,448 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on  Hide-Show Animation text*************
+2023-02-04 18:43:29,744 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on zero*************
+2023-02-04 18:43:29,869 - stepdefinations.Animation_Step_Defination -INFO - *************here we verify that zero is gone or not*************
+2023-02-04 18:43:34,950 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on the show button*************
+2023-02-04 18:43:38,023 - stepdefinations.Animation_Step_Defination -INFO - *************verify that zero is visible or not*************
+2023-02-04 18:43:52,303 - stepdefinations.App_Display_Option_Step_defination -INFO - *****here we click on the App button*************
+2023-02-04 18:43:54,972 - stepdefinations.App_Display_Option_Step_defination -INFO - *****here we click on the Action Bar*************
+2023-02-04 18:43:56,308 - stepdefinations.App_Display_Option_Step_defination -INFO - *****click on the Display Options*************
+2023-02-04 18:43:57,597 - stepdefinations.App_Display_Option_Step_defination -INFO - *****click on the Display_show_title and verify it*************
+2023-02-04 18:43:59,336 - stepdefinations.App_Display_Option_Step_defination -INFO - *****click on the Display_show_custom and verify it*************
+2023-02-04 18:44:01,245 - stepdefinations.App_Display_Option_Step_defination -INFO - *****click on Navigation and verify it*************
+2023-02-04 18:44:17,291 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the App text************
+2023-02-04 18:44:20,002 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Device admin************
+2023-02-04 18:44:20,143 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Password expiration************
+2023-02-04 18:44:22,419 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the set password************
+2023-02-04 18:44:22,584 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the fingerprint and password***********
+2023-02-04 18:44:26,332 - stepdefinations.SetPassword_Step_Defination -INFO - ********send the password***********
+2023-02-04 18:44:29,326 - stepdefinations.SetPassword_Step_Defination -INFO - ********reenter the confirm password***********
+2023-02-04 18:44:30,052 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the confirm button***********
+2023-02-04 18:44:30,791 - stepdefinations.SetPassword_Step_Defination -INFO - ********Click on do not show notification***********
+2023-02-04 18:44:33,301 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the confirm***********
+2023-02-04 18:44:35,408 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on skip***********
+2023-02-04 18:44:53,499 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****user click on the text*************
+2023-02-04 18:44:56,374 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****user click on the Linkify*************
+2023-02-04 18:44:57,978 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****click on the here text*************
+2023-02-04 18:44:58,710 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****click on the Create new contact*************
+2023-02-04 18:45:01,995 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****click on the cancel*************
+2023-02-04 18:45:02,053 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****fill the first name*************
+2023-02-04 18:45:03,747 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****fill the Last name*************
+2023-02-04 18:45:04,867 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****enter the phone number*************
+2023-02-04 18:45:06,955 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****enter the email*************
+2023-02-04 18:45:08,981 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****select mobile from scroll bar*************
+2023-02-04 18:45:11,510 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****Clcik on Save*************
+2023-02-04 18:45:11,583 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****Check that number is save or not*************
+2023-02-14 10:23:15,763 - stepdefinations.App_Search_Step_Defination -INFO - Click on the app
+2023-02-14 10:23:17,015 - stepdefinations.App_Search_Step_Defination -INFO - ********Click on the Search**********
+2023-02-14 10:23:18,055 - stepdefinations.App_Search_Step_Defination -INFO - ********Clcik on Invoke Search**********
+2023-02-14 10:23:20,480 - stepdefinations.App_Search_Step_Defination -INFO - ********Give the Prefill Query**********
+2023-02-14 10:23:20,601 - stepdefinations.App_Search_Step_Defination -INFO - ********check the title**********
+2023-02-14 10:23:21,248 - stepdefinations.App_Search_Step_Defination -INFO - ********Give the App data**********
+2023-02-14 10:23:34,465 - stepdefinations.Graphics_Step_defination -INFO - *******click on Graphic button***********
+2023-02-14 10:23:35,875 - stepdefinations.Graphics_Step_defination -INFO - *******click on AlphaBitmap and check the title and move back***********
+2023-02-14 10:23:38,356 - stepdefinations.Graphics_Step_defination -INFO - *******click on the AnimateDrawbles check the title and move back***********
+2023-02-14 10:23:41,284 - stepdefinations.Graphics_Step_defination -INFO - *******click on the Density check the title scroll down and move back***********
+2023-02-14 10:23:47,129 - stepdefinations.Graphics_Step_defination -INFO - *******Scroll down***********
+2023-02-14 10:23:55,298 - stepdefinations.Graphics_Step_defination -INFO - *******clcik on picture check the title and move back***********
+2023-02-14 10:23:56,561 - stepdefinations.Graphics_Step_defination -INFO - *******clcik on Touch paint and check the title and touch on screen***********
+2023-02-14 10:24:13,431 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on animation text*************
+2023-02-14 10:24:16,098 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on  Hide-Show Animation text*************
+2023-02-14 10:24:16,244 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on zero*************
+2023-02-14 10:24:17,449 - stepdefinations.Animation_Step_Defination -INFO - *************here we verify that zero is gone or not*************
+2023-02-14 10:24:22,521 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on the show button*************
+2023-02-14 10:24:25,608 - stepdefinations.Animation_Step_Defination -INFO - *************verify that zero is visible or not*************
+2023-02-14 10:24:36,406 - stepdefinations.App_Display_Option_Step_defination -INFO - *****here we click on the App button*************
+2023-02-14 10:24:39,115 - stepdefinations.App_Display_Option_Step_defination -INFO - *****here we click on the Action Bar*************
+2023-02-14 10:24:40,441 - stepdefinations.App_Display_Option_Step_defination -INFO - *****click on the Display Options*************
+2023-02-14 10:24:40,547 - stepdefinations.App_Display_Option_Step_defination -INFO - *****click on the Display_show_title and verify it*************
+2023-02-14 10:24:43,362 - stepdefinations.App_Display_Option_Step_defination -INFO - *****click on the Display_show_custom and verify it*************
+2023-02-14 10:24:44,664 - stepdefinations.App_Display_Option_Step_defination -INFO - *****click on Navigation and verify it*************
+2023-02-14 10:24:56,635 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the App text************
+2023-02-14 10:24:59,316 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Device admin************
+2023-02-14 10:24:59,445 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Password expiration************
+2023-02-14 10:25:01,792 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the set password************
+2023-02-14 10:25:01,930 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the fingerprint and password***********
+2023-02-14 10:25:04,735 - stepdefinations.SetPassword_Step_Defination -INFO - ********send the password***********
+2023-02-14 10:25:07,182 - stepdefinations.SetPassword_Step_Defination -INFO - ********reenter the confirm password***********
+2023-02-14 10:25:07,826 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the confirm button***********
+2023-02-14 10:25:08,573 - stepdefinations.SetPassword_Step_Defination -INFO - ********Click on do not show notification***********
+2023-02-14 10:25:10,433 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the confirm***********
+2023-02-14 10:25:12,322 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on skip***********
+2023-02-14 10:25:23,680 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****user click on the text*************
+2023-02-14 10:25:25,325 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****user click on the Linkify*************
+2023-02-14 10:25:27,915 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****click on the here text*************
+2023-02-14 10:25:28,647 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****click on the Create new contact*************
+2023-02-14 10:25:31,341 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****click on the cancel*************
+2023-02-14 10:25:31,397 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****fill the first name*************
+2023-02-14 10:25:32,849 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****fill the Last name*************
+2023-02-14 10:25:33,988 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****enter the phone number*************
+2023-02-14 10:25:35,998 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****enter the email*************
+2023-02-14 10:25:37,937 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****select mobile from scroll bar*************
+2023-02-14 10:25:40,543 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****Clcik on Save*************
+2023-02-14 10:25:40,611 - stepdefinations.Create_New_Contact_Step_Defination -INFO - *****Check that number is save or not*************
+2023-02-14 11:00:05,477 - stepdefinations.App_Search_Step_Defination -INFO - Click on the app
+2023-02-14 11:00:07,555 - stepdefinations.App_Search_Step_Defination -INFO - ********Click on the Search**********
+2023-02-14 11:00:10,200 - stepdefinations.App_Search_Step_Defination -INFO - ********Clcik on Invoke Search**********
+2023-02-14 11:00:11,561 - stepdefinations.App_Search_Step_Defination -INFO - ********Give the Prefill Query**********
+2023-02-14 11:00:11,762 - stepdefinations.App_Search_Step_Defination -INFO - ********check the title**********
+2023-02-14 11:00:12,411 - stepdefinations.App_Search_Step_Defination -INFO - ********Give the App data**********
+2023-02-14 11:00:26,527 - stepdefinations.Graphics_Step_defination -INFO - *******click on Graphic button***********
+2023-02-14 11:00:29,153 - stepdefinations.Graphics_Step_defination -INFO - *******click on AlphaBitmap and check the title and move back***********
+2023-02-14 11:00:30,519 - stepdefinations.Graphics_Step_defination -INFO - *******click on the AnimateDrawbles check the title and move back***********
+2023-02-14 11:00:33,590 - stepdefinations.Graphics_Step_defination -INFO - *******click on the Density check the title scroll down and move back***********
+2023-02-14 11:00:39,355 - stepdefinations.Graphics_Step_defination -INFO - *******Scroll down***********
+2023-02-14 11:00:47,630 - stepdefinations.Graphics_Step_defination -INFO - *******clcik on picture check the title and move back***********
+2023-02-14 11:00:48,887 - stepdefinations.Graphics_Step_defination -INFO - *******clcik on Touch paint and check the title and touch on screen***********
+2023-02-14 11:01:05,116 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on animation text*************
+2023-02-14 11:01:07,883 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on  Hide-Show Animation text*************
+2023-02-14 11:01:08,027 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on zero*************
+2023-02-14 11:01:09,211 - stepdefinations.Animation_Step_Defination -INFO - *************here we verify that zero is gone or not*************
+2023-02-14 11:01:14,314 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on the show button*************
+2023-02-14 11:01:17,390 - stepdefinations.Animation_Step_Defination -INFO - *************verify that zero is visible or not*************
+2023-02-14 11:01:28,266 - stepdefinations.App_Display_Option_Step_defination -INFO - *****here we click on the App button*************
+2023-02-14 11:01:30,971 - stepdefinations.App_Display_Option_Step_defination -INFO - *****here we click on the Action Bar*************
+2023-02-14 11:01:31,113 - stepdefinations.App_Display_Option_Step_defination -INFO - *****click on the Display Options*************
+2023-02-14 11:01:33,447 - stepdefinations.App_Display_Option_Step_defination -INFO - *****click on the Display_show_title and verify it*************
+2023-02-14 11:01:35,220 - stepdefinations.App_Display_Option_Step_defination -INFO - *****click on the Display_show_custom and verify it*************
+2023-02-14 11:01:36,622 - stepdefinations.App_Display_Option_Step_defination -INFO - *****click on Navigation and verify it*************
+2023-02-14 11:01:48,769 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the App text************
+2023-02-14 11:01:51,450 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Device admin************
+2023-02-14 11:01:52,611 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the Password expiration************
+2023-02-14 11:01:53,748 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the set password************
+2023-02-14 11:01:53,929 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the fingerprint and password***********
+2023-02-14 11:01:56,702 - stepdefinations.SetPassword_Step_Defination -INFO - ********send the password***********
+2023-02-14 11:01:59,165 - stepdefinations.SetPassword_Step_Defination -INFO - ********reenter the confirm password***********
+2023-02-14 11:01:59,852 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the confirm button***********
+2023-02-14 11:02:00,933 - stepdefinations.SetPassword_Step_Defination -INFO - ********Click on do not show notification***********
+2023-02-14 11:02:02,843 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on the confirm***********
+2023-02-14 11:02:04,814 - stepdefinations.SetPassword_Step_Defination -INFO - ********click on skip***********
+2023-02-15 10:08:07,115 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on animation text*************
+2023-02-15 10:08:09,256 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on  Hide-Show Animation text*************
+2023-02-15 10:08:09,375 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on zero*************
+2023-02-15 10:08:10,515 - stepdefinations.Animation_Step_Defination -INFO - *************here we verify that zero is gone or not*************
+2023-02-15 10:08:15,615 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on the show button*************
+2023-02-15 10:08:18,693 - stepdefinations.Animation_Step_Defination -INFO - *************verify that zero is visible or not*************
+2023-02-15 11:44:55,900 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on animation text*************
+2023-02-15 11:44:58,132 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on  Hide-Show Animation text*************
+2023-02-15 11:44:58,259 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on zero*************
+2023-02-15 11:44:59,455 - stepdefinations.Animation_Step_Defination -INFO - *************here we verify that zero is gone or not*************
+2023-02-15 11:45:04,515 - stepdefinations.Animation_Step_Defination -INFO - *************here we click on the show button*************
+2023-02-15 11:45:07,565 - stepdefinations.Animation_Step_Defination -INFO - *************verify that zero is visible or not*************
